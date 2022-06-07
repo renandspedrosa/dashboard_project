@@ -622,7 +622,7 @@ main .recent-orders a{
         position: absolute;
         left: 66%;
     }
-    .right .profile.info{
+    .right .profile .info{
         display: none;
     }
     .right .top button{
